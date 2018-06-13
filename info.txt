@@ -1,0 +1,9 @@
+Hashtable: http://lineadecodigo.com/java/usar-una-hashtable-java/
+
+Una Hashtable Java es una estructura de datos que utiliza una función hash para identificar datos mediante una llave o clave 
+(ej. Nombre de una persona). La función hash transforma una llave a un valor índice de un arreglo de elementos. En este caso a
+una índice de nuestra Hashtable Java.
+
+Crear:Hashtable<String,String> contenedor=new Hashtable<String,String>();
+Poner cosas:contenedor.put("101", "Harry");
+
